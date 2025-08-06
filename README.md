@@ -23,8 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+![Sea Monster Crowdfunding](./SeaMonsterCrowdfunding.gif)
 
-<img src='https://imgur.com/a/sea-monster-crowdfunding-Yibdt1H' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='![Sea Monster Crowdfunding](./SeaMonsterCrowdfunding.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
