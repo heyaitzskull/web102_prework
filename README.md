@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] Navigation Bar at the top of the page directing user to provide easy access to 'Home' and 'Games,' cerating a more efficient user experience.
+* [x] Navigation Bar at the top of the page in order to provide easy access to 'Home' and 'Games,' cerating a more efficient user experience.
 * [x] Customize CSS to be more personalized 
 
 ## Video Walkthrough
