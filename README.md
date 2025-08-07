@@ -32,7 +32,7 @@ GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 ## Notes
 
 Describe any challenges encountered while building the app.
-- I hadn't really used reduce before so it took a few tries for me to get used to it. However, it was very to learn fun and I quickly saw how useful it could be. 
+- I hadn't really used reduce before so it took a few tries for me to get used to it. However, it was very fun to learn and I quickly saw how useful it could be. 
 - The navigation bar itself was simple, however I struggled for a bit trying to figure out how to properly share index.js between both my html pages. 
 
 ## License
